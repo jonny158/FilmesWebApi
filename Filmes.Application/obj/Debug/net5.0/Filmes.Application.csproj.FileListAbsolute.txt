@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\obj\Debug\net5.0\Filmes.Application.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\obj\Debug\net5.0\Filmes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\obj\Debug\net5.0\Filmes.Application.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\obj\Debug\net5.0\Filmes.Application.AssemblyInfo.cs
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\obj\Debug\net5.0\Filmes.Application.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\bin\Debug\net5.0\Filmes.Application.deps.json
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\bin\Debug\net5.0\Filmes.Application.dll
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\bin\Debug\net5.0\ref\Filmes.Application.dll
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\bin\Debug\net5.0\Filmes.Application.pdb
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\bin\Debug\net5.0\Filmes.Domain.dll
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\bin\Debug\net5.0\Filmes.Domain.pdb
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\obj\Debug\net5.0\Filmes.Application.csproj.CopyComplete
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\obj\Debug\net5.0\Filmes.Application.dll
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\obj\Debug\net5.0\ref\Filmes.Application.dll
+C:\Users\jonat\source\repos\FilmesWebApi\Filmes.Application\obj\Debug\net5.0\Filmes.Application.pdb
